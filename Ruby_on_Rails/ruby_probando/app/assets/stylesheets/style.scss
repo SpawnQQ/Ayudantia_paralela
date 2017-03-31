@@ -1,0 +1,28 @@
+html,body{
+	margin: 0px;
+	font-family: 'Roboto', sans-serif;
+}
+.be-blue{
+	background-color: rgb(24,0,255);
+}
+#logo{
+	font-size: 1.2em;
+}
+a:link{
+	text-decoration: none;
+}
+a,a:visited{
+	color: inherit;
+}
+.no-margin{
+	margin: 0px;
+}
+.white{
+	color: white;
+}
+.large-padding{
+	padding: 15px 10px;
+}
+.no-list{
+	list-style:none;
+}
